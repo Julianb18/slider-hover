@@ -24,7 +24,7 @@ p {
   background-color: rgba(255, 255, 255, 0.507);
   transition: all 0.5s;
 }
-.center {
+.center-container {
   height: 100vh;
   width: 100vw;
   display: flex;
@@ -34,7 +34,7 @@ p {
 .container {
   display: flex;
   height: 50%;
-  width: 100%;
+  width: 800px;
   justify-content: center;
   align-items: center;
   position: relative;
